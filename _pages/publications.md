@@ -44,7 +44,7 @@ __*Corresponding Author__
 
 ## Latest works in preperation
 
-- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., __Ak, Ç.*__ (2025) <br>
+- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., __Ak, Ç.*__ <br>
   [scMKL: Knowledge based machine learning to enhance the interpretability of single cell multi omics analysis] <br>
   *Currently in revision at Communications Biology, 2025.*
 
@@ -52,7 +52,7 @@ __*Corresponding Author__
   [EpiConfig: Multimodal topic modeling for single cell multiomics] <br>
   *Proceedings AACR, 2025.*
 
-- __Ak, Ç.*__ Ait Ahmad, K., Kupp, S., Wang, M., Thibault G., Chang, Y. H., Eksi, S. E. <br>
+- __Ak, Ç.*__, Ait Ahmad, K., Kupp, S., Wang, M., Thibault G., Chang, Y. H., Eksi, S. E. <br>
   [Investigating the spatial interactions of neural and immune cells in localized prostate cancer via new spatial analysis tools] <br>
 
 - Mohebnasab, M., __Ak, Ç.__, Williams, T., Corless, C., Morgan, T. <br>
