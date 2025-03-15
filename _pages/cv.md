@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: " "
+title: "Curriculum Vitae"
 permalink: /cv/
 author_profile: true
 redirect_from:
@@ -10,7 +10,8 @@ redirect_from:
 {% include base_path %}
 {% capture written_label %}'None'{% endcapture %}
 
-If the embedded PDF below does not load, you can <u><a href="https://github.com/cigdemak/cigdemak.github.io/blob/master/files/Cigdem%20Ak%20CV-March2025.pdf">download it here.</a></u>
+If the embedded PDF below does not load, you can <u><a href="https://drive.google.com/file/d/1peensfBC2DhrBpTCfFu4tluCaNJ4zmE0/view?usp=sharing">download it here.</a></u>
 <br/>
 
-<embed src="https://raw.githubusercontent.com/cigdemak/cigdemak.github.io/master/files/Cigdem%20Ak%20CV-March2025.pdf" type="application/pdf" width="100%" />
+<iframe src="https://drive.google.com/file/d/1peensfBC2DhrBpTCfFu4tluCaNJ4zmE0/preview" width="100%" height="600px"></iframe>
+
