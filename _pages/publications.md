@@ -24,7 +24,7 @@ __*Corresponding Author__
 [Fast and interpretable genomic data analysis using multiple approximate kernel learning](https://doi.org/10.1093/bioinformatics/btac241) <br>
   *Bioinformatics, 2022, vol. 38, Issue Supplement 1, Pages i77–i83, https://doi.org/10.1093/bioinformatics/btac241.*
 
-- __Ak, Ç.*__, Chitsazan, A., Gönen, M., Grossberg, A., Etzioni, R. <br>
+- **Ak, Ç.\***, Chitsazan, A., Gönen, M., Grossberg, A., Etzioni, R. <br>
   [Spatial prediction of COVID 19 pandemic dynamics in the United States](https://doi.org/10.3390/ijgi11090470) <br>
   *ISPRS International Journal of Geo Information, 2022, 11(9), 470, https://doi.org/10.3390/ijgi11090470.*
 
@@ -44,11 +44,11 @@ __*Corresponding Author__
 
 ## Latest works in preperation
 
-- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., __Ak, Ç.*__ <br>
+- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., **Ak, Ç.\*** <br>
   [scMKL: Knowledge based machine learning to enhance the interpretability of single cell multi omics analysis] <br>
   *Currently in revision at Communications Biology, 2025.*
 
-- __Ak, Ç.*__, Szczepanski, N., Doe, A., Chitsazan, A., Yardımcı, G. G. <br>
+- **Ak, Ç.\***, Szczepanski, N., Doe, A., Chitsazan, A., Yardımcı, G. G. <br>
   [EpiConfig: Multimodal topic modeling for single cell multiomics] <br>
   *Proceedings AACR, 2025.*
 
