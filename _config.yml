@@ -9,9 +9,9 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default"
-title                    : "Hompe page of Cigdem Ak"
+title                    : "Home page of Cigdem Ak"
 title_separator          : "-"
-name                     : &name "Cigdem Ak"
+name                     : &name "Çiğdem Ak"
 description              : &description "Scalable and intepretable machine learning"
 url                      : https://cigdemak.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
