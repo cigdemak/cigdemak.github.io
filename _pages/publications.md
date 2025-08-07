@@ -8,7 +8,7 @@ __*Corresponding Author__
 
 ## Postdoc papers
 - Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., **Ak, Ç.\*** <br>
-  [Interpretable and integrative analysis of single-cell multiomics with scMKL] (https://rdcu.be/ezuY2) <br>
+  [Interpretable and integrative analysis of single-cell multiomics with scMKL](https://rdcu.be/ezuY2) <br>
   *Communications Biology volume 8, Article number: 1160 (2025).*
 
 - __Ak, Ç.__, Sayar, Z., Thibault, G., Burlingame, E., Eng, J., Chitsazan, A., Adey, A., Boniface, C., Spellman, P., Thomas, G., Kopp, R., Chang, Y. H., Stavrinides, V., Demir, E., and Eksi, S. E.  <br>
