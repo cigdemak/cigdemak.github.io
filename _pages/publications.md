@@ -7,6 +7,9 @@ author_profile: true
 __*Corresponding Author__
 
 ## Postdoc papers
+- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., **Ak, Ç.\*** <br>
+  [Interpretable and integrative analysis of single-cell multiomics with scMKL] (https://rdcu.be/ezuY2) <br>
+  *Communications Biology volume 8, Article number: 1160 (2025).*
 
 - __Ak, Ç.__, Sayar, Z., Thibault, G., Burlingame, E., Eng, J., Chitsazan, A., Adey, A., Boniface, C., Spellman, P., Thomas, G., Kopp, R., Chang, Y. H., Stavrinides, V., Demir, E., and Eksi, S. E.  <br>
   [Multiplex imaging of localized prostate tumors reveals altered spatial organization of AR-positive cells in the microenvironment](https://doi.org/10.1016/j.isci.2024.110668) <br>
@@ -43,10 +46,6 @@ __*Corresponding Author__
   *PLoS Neglected Tropical Diseases, 2018, vol. 12, no. 8, p. e0006737. https://doi.org/10.1371/journal.pntd.0006737.*
 
 ## Latest works in preperation
-
-- Kupp, S., Vangordon, I.,  Eksi, S. E., Gonen, M., Esener, S., **Ak, Ç.\*** <br>
-  [scMKL: Knowledge based machine learning to enhance the interpretability of single cell multi omics analysis] <br>
-  *Currently in revision at Communications Biology, 2025.*
 
 - **Ak, Ç.\***, Szczepanski, N., Doe, A., Chitsazan, A., Yardımcı, G. G. <br>
   [EpiConfig: Multimodal topic modeling for single cell multiomics] <br>
