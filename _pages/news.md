@@ -14,11 +14,11 @@ Presented three posters and two pitch talks highlighting advances in interpretab
 <p align="center">
   <img src="/images/edx_scMKL.jpg" alt="Poster presentation on scMKL"
        width="200" style="border-radius:6px; margin:5px;">
-  <img src="/images/edx_posters.jpg" alt="Poster session at EDx"
-       width="200" style="border-radius:6px; margin:5px;">
   <img src="/images/edx_spatial.jpg" alt="Spatial analysis poster presentation"
        width="200" style="border-radius:6px; margin:5px;">
   <img src="/images/edx_zeynep.jpg" alt="Collaborator presentation at EDx"
+       width="200" style="border-radius:6px; margin:5px;">
+  <img src="/images/edx_posters.jpg" alt="Poster session at EDx"
        width="200" style="border-radius:6px; margin:5px;">
 </p>
 
