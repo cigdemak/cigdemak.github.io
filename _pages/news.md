@@ -7,6 +7,12 @@ author_profile: true
 
 ## 2025
 
+### November 6  
+**Guest Instructor, Biomedical Engineering T32 Program**, Oregon Health & Science University  
+Delivered a two-hour session on dimensionality reduction and the responsible use of code-assist AI tools for single-cell RNA-seq analysis. Content was tailored after pre-meetings with trainees to address real workflow challenges.
+
+---
+
 ### October 21–23  
 **The Early Detection of Cancer Conference**, Portland, USA  
 Presented three posters and two pitch talks highlighting advances in interpretable modeling of spatial and multi-omics single-cell data.  
@@ -34,6 +40,13 @@ Presented my poster *Spatial Analysis of Androgen Receptor's Role in Prostate Ca
 **Biology Department Fall Seminar Series**, Reed College, Portland, USA  
 Delivered an invited seminar, *From Single Cells to Tumor Neighborhoods – Interpretable AI for Cancer Biology.*  
 [Seminar Announcement](https://events.reed.edu/event/biology-seminar-dr-cigdem-ak?utm_campaign=widget&utm_medium=widget&utm_source=Events+Calendar)
+
+
+---
+
+### September 30
+**Hands-on Workshop: Interpretable Multi-Omics Integration with scMKL**, Oregon Health & Science University  
+Designed and led a hands-on workshop introducing scMKL for interpretable single-cell multi-omics integration. Participants learned to run workflows, interpret model outputs, and connect computational findings to biological discovery.
 
 ---
 
