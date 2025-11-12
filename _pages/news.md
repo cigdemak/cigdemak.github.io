@@ -1,7 +1,8 @@
 ---
-layout: page
-title: "News and Updates"
-permalink: /news/
+permalink: /software/
+title: "News & Updates"
+excerpt: "News & Updates"
+author_profile: true
 ---
 
 ## 2025
