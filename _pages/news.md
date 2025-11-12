@@ -1,5 +1,5 @@
 ---
-permalink: /software/
+permalink: /news/
 title: "News & Updates"
 excerpt: "News & Updates"
 author_profile: true
