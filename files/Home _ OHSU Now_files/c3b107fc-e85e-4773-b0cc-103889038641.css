@@ -1,0 +1,32 @@
+@font-face {
+          font-family: "Noto Sans";
+          font-style: normal;
+          font-weight: 400;
+          mso-font-alt: 'Arial';
+          src: local("Noto Sans");
+          src: url(https://assets.socialchorus.com/public/production/121101/fonts/17059af9-9ef8-4fce-847a-e412d485dc28.ttf), local(Arial), local(Arial);
+        }
+@font-face {
+          font-family: "Noto Sans";
+          font-style: normal;
+          font-weight: 700;
+          mso-font-alt: 'Arial';
+          src: local("Noto Sans");
+          src: url(https://assets.socialchorus.com/public/production/121101/fonts/3b2c535d-877c-47fd-9917-0bf2c51e9f4c.ttf), local(Arial), local(Arial);
+        }
+@font-face {
+          font-family: "Noto Sans";
+          font-style: italic;
+          font-weight: 400;
+          mso-font-alt: 'Arial';
+          src: local("Noto Sans");
+          src: url(https://assets.socialchorus.com/public/production/121101/fonts/d5646490-876a-4a4a-b4b1-095b4741b3e8.ttf), local(Arial), local(Arial);
+        }
+@font-face {
+          font-family: "Noto Sans";
+          font-style: italic;
+          font-weight: 700;
+          mso-font-alt: 'Arial';
+          src: local("Noto Sans");
+          src: url(https://assets.socialchorus.com/public/production/121101/fonts/dd41f349-80ce-45ab-b929-f58f8c95d931.ttf), local(Arial), local(Arial);
+        }
