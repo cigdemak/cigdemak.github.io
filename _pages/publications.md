@@ -47,6 +47,10 @@ __*Corresponding Author__
 
 ## Latest works in preperation
 
+- Sims, Z., Govindarajan, S., Ait-Ahmad, K., __Ak, Ç.__, Kuykendall, M., Mills, G. B., Eksi, E., Chang Y. H. <br>
+  [miniMTI: minimal multiplex tissue imaging enhances biomarker expression prediction from histology] <br>
+  bioRxiv 2026.01.21.700911; doi: https://doi.org/10.64898/2026.01.21.700911
+
 - **Ak, Ç.\***, Szczepanski, N., Doe, A., Chitsazan, A., Yardımcı, G. G. <br>
   [EpiConfig: Multimodal topic modeling for single cell multiomics] <br>
   *Proceedings AACR, 2025.*
